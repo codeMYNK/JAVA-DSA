@@ -1,6 +1,6 @@
 package L02MathsForDSA;
 
-public class MathsDSA {
+public class MathsDSA1 {
     public static void main(String[] args) {
 
         decimalToAnyBase(5,2);
